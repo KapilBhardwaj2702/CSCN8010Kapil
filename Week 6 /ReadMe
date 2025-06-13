@@ -1,0 +1,3 @@
+In this we are studying the algorithm to implement the Statistical Classification Log-Loss (a.k.a., Cross
+Entropy). Take the #hours studied vs. pass-fail use case as an example.
+Document the algorithm and functions in a Jupyter Notebook using markdown and code cells
